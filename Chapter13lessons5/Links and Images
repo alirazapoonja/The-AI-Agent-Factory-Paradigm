@@ -1,0 +1,262 @@
+1. What is the purpose of links in Markdown?
+
+A. Styling text
+B. Connecting to external resources
+C. Writing code
+D. Creating lists
+
+✅ Answer: B
+📘 Explanation: Links connect your document to external documentation or resources, improving usability and context.
+
+2. What is the purpose of images in Markdown?
+
+A. Styling
+B. Visualization
+C. Code execution
+D. Debugging
+
+✅ Answer: B
+📘 Explanation: Images help visualize concepts like architecture or workflows.
+
+3. Which syntax is used for links?
+
+A.
+
+B. text
+
+C. (text)[url]
+D. <text>(url)
+
+✅ Answer: B
+📘 Explanation: Standard link syntax is [text](url).
+
+4. Which syntax is used for images?
+
+A. text
+
+B.
+
+C. (alt)[url]
+D. <img>(url)
+
+✅ Answer: B
+📘 Explanation: Images use ![alt text](url) syntax.
+
+5. What distinguishes images from links?
+
+A. #
+B. !
+C. *
+D. -
+
+✅ Answer: B
+📘 Explanation: The ! prefix indicates an image instead of a link.
+
+🔗 Links Best Practices
+6. Good link text should be:
+
+A. “Click here”
+B. “Link”
+C. Descriptive
+D. Random
+
+✅ Answer: C
+📘 Explanation: Descriptive text improves clarity and usability.
+
+7. Bare URLs like https://example.com are:
+
+A. Recommended
+B. Best practice
+C. Poor practice
+D. Required
+
+✅ Answer: C
+📘 Explanation: Use proper [text](url) format instead of raw URLs.
+
+8. Links should:
+
+A. Be vague
+B. Be descriptive
+C. Be long
+D. Be hidden
+
+✅ Answer: B
+📘 Explanation: Clear link text helps both humans and AI.
+
+9. Links improve:
+
+A. Speed
+B. Context
+C. UI
+D. Storage
+
+✅ Answer: B
+📘 Explanation: They provide reference context for understanding.
+
+10. Example of correct link:
+
+A. https://docs.python.org
+
+B. Python Docs
+
+C. (Python Docs)https://docs.python.org
+
+D. <Python Docs>
+
+✅ Answer: B
+📘 Explanation: Proper syntax includes text + URL.
+
+🖼️ Images Best Practices
+11. Alt text is:
+
+A. Optional decoration
+B. Description of image
+C. URL
+D. Title
+
+✅ Answer: B
+📘 Explanation: Alt text describes what the image shows.
+
+12. Good alt text should:
+
+A. Be vague
+B. Be descriptive
+C. Be short only
+D. Be random
+
+✅ Answer: B
+📘 Explanation: Helps accessibility and AI understanding.
+
+13. Example of good alt text:
+
+A. Image
+B. Screenshot
+C. Data flow diagram showing user → app → API
+D. Picture
+
+✅ Answer: C
+📘 Explanation: Describes what the image shows, not just its type.
+
+14. Image syntax includes:
+
+A. #
+B. !
+C. *
+D. &
+
+✅ Answer: B
+📘 Explanation: ! is mandatory for images.
+
+15. Images improve:
+
+A. Code execution
+B. Visualization
+C. Speed
+D. Storage
+
+✅ Answer: B
+📘 Explanation: Visual aids enhance understanding.
+
+🤖 AI Understanding
+16. Links help AI:
+
+A. Ignore data
+B. Access context
+C. Delete info
+D. Style text
+
+✅ Answer: B
+📘 Explanation: Links provide reference knowledge sources.
+
+17. Images help AI:
+
+A. Execute code
+B. Understand visuals
+C. Store data
+D. Format text
+
+✅ Answer: B
+📘 Explanation: Images represent visual workflows or architecture.
+
+18. Markdown links/images improve:
+
+A. Ambiguity
+B. Clarity
+C. Errors
+D. Speed
+
+✅ Answer: B
+📘 Explanation: They make content more structured and clear.
+
+🏗️ Practical Usage
+19. Best place to add links:
+
+A. Random
+B. Resources section
+C. Code
+D. Title
+
+✅ Answer: B
+📘 Explanation: A Resources/Docs section is standard practice.
+
+20. Best place to add images:
+
+A. Title
+B. Architecture section
+C. Footer
+D. Code
+
+✅ Answer: B
+📘 Explanation: Images often explain system design.
+
+21. Relative image path example:
+
+A. https://image.png
+
+B. ./images/diagram.png
+C. image
+D. diagram
+
+✅ Answer: B
+📘 Explanation: Relative paths link to local project files.
+
+⚠️ Common Mistakes
+22. Missing ! in image syntax:
+
+A. Correct
+B. Creates image
+C. Creates link
+D. Error
+
+✅ Answer: C
+📘 Explanation: Without !, it becomes a link instead of image.
+
+23. Using vague alt text leads to:
+
+A. Better output
+B. AI confusion
+C. Faster speed
+D. Optimization
+
+✅ Answer: B
+📘 Explanation: Poor descriptions reduce clarity.
+
+24. Using raw URLs instead of markdown links:
+
+A. Good
+B. Best
+C. Bad practice
+D. Required
+
+✅ Answer: C
+📘 Explanation: Proper syntax improves readability.
+
+25. Proper use of links & images results in:
+
+A. Poor AI output
+B. Better documentation and AI understanding
+C. Errors
+D. Slower system
+
+✅ Answer: B
+📘 Explanation: Structured references + visuals = better AI results.
