@@ -1,0 +1,254 @@
+1. What is the purpose of code blocks in Markdown?
+
+A. Styling text
+B. Displaying formatted code
+C. Adding images
+D. Creating lists
+
+✅ Answer: B
+📘 Explanation: Code blocks are used to display code or structured examples clearly without formatting issues.
+
+2. Code blocks help AI to:
+
+A. Ignore content
+B. Understand exact implementation
+C. Delete text
+D. Style UI
+
+✅ Answer: B
+📘 Explanation: They provide precise technical instructions, reducing ambiguity.
+
+3. Which syntax is used for fenced code blocks?
+
+A. ###
+B. ```
+C. ***
+D. ---
+
+✅ Answer: B
+📘 Explanation: Triple backticks (```) define fenced code blocks.
+
+4. Code blocks are important because they:
+
+A. Improve UI
+B. Show exact structure
+C. Add colors
+D. Increase speed
+
+✅ Answer: B
+📘 Explanation: They show exact code patterns and structure for AI.
+
+5. Code blocks belong to which layer in Agent Factory?
+
+A. UI Layer
+B. Execution Layer
+C. Intent Layer
+D. Database Layer
+
+✅ Answer: C
+📘 Explanation: Markdown (including code blocks) operates in the Intent Layer.
+
+🔤 Types of Code Blocks
+6. Inline code uses:
+
+A. ```
+B. ` (single backtick)
+C. ###
+D. ***
+
+✅ Answer: B
+📘 Explanation: Inline code uses single backticks for short snippets.
+
+7. Inline code is best for:
+
+A. Full programs
+B. Short snippets
+C. Images
+D. Lists
+
+✅ Answer: B
+📘 Explanation: Used for small code pieces inside text.
+
+8. Fenced code blocks are best for:
+
+A. Titles
+B. Multi-line code
+C. Lists
+D. Links
+
+✅ Answer: B
+📘 Explanation: Ideal for multi-line structured code.
+
+9. Indented code blocks use:
+
+A. #
+B. 4 spaces
+C. *
+D. Numbers
+
+✅ Answer: B
+📘 Explanation: Older style uses indentation but is less preferred.
+
+10. Preferred method for code blocks is:
+
+A. Inline
+B. Indented
+C. Fenced
+D. Paragraph
+
+✅ Answer: C
+📘 Explanation: Fenced blocks are more readable and flexible.
+
+🎨 Syntax Highlighting
+11. Syntax highlighting is enabled by:
+
+A. Adding numbers
+B. Adding language name
+C. Using bold
+D. Using lists
+
+✅ Answer: B
+📘 Explanation: Language name after enables highlighting (e.g.,python).
+
+12. Example: ```python enables:
+
+A. Execution
+B. Highlighting
+C. Compilation
+D. Testing
+
+✅ Answer: B
+📘 Explanation: It improves readability through syntax coloring.
+
+13. Syntax highlighting helps:
+
+A. Speed
+B. Readability
+C. Storage
+D. Security
+
+✅ Answer: B
+📘 Explanation: Makes code easier to understand visually.
+
+🤖 AI Understanding
+14. Code blocks give AI:
+
+A. Ambiguous text
+B. Exact examples
+C. UI design
+D. Random data
+
+✅ Answer: B
+📘 Explanation: They provide clear implementation examples.
+
+15. Code blocks reduce:
+
+A. Clarity
+B. Ambiguity
+C. Speed
+D. Design
+
+✅ Answer: B
+📘 Explanation: Structured examples remove confusion.
+
+16. Code blocks influence:
+
+A. UI
+B. Code generation
+C. Images
+D. Fonts
+
+✅ Answer: B
+📘 Explanation: They directly impact how AI generates code.
+
+17. AI prefers code blocks because they are:
+
+A. Decorative
+B. Structured
+C. Random
+D. Visual
+
+✅ Answer: B
+📘 Explanation: Structured format improves parsing.
+
+🏗️ Practical Usage
+18. Best use of code blocks:
+
+A. Writing paragraphs
+B. Showing API examples
+C. Writing headings
+D. Creating lists
+
+✅ Answer: B
+📘 Explanation: Code blocks define technical behavior clearly.
+
+19. Code blocks are useful for:
+
+A. Images
+B. Data structures
+C. Colors
+D. UI
+
+✅ Answer: B
+📘 Explanation: They define schemas and structures.
+
+20. Best practice:
+
+A. No spacing
+B. Add blank lines around blocks
+C. Mix formats
+D. Avoid blocks
+
+✅ Answer: B
+📘 Explanation: Improves readability.
+
+⚠️ Common Mistakes
+21. Not specifying language leads to:
+
+A. Better output
+B. No highlighting
+C. Faster code
+D. Errors
+
+✅ Answer: B
+📘 Explanation: Syntax highlighting won’t work.
+
+22. Using paragraphs instead of code blocks:
+
+A. Good
+B. Best
+C. Bad practice
+D. Required
+
+✅ Answer: C
+📘 Explanation: Makes technical content unclear.
+
+23. Mixing inline and block incorrectly:
+
+A. Good
+B. Bad practice
+C. Required
+D. Faster
+
+✅ Answer: B
+📘 Explanation: Reduces clarity.
+
+24. Using indented blocks instead of fenced:
+
+A. Preferred
+B. Outdated practice
+C. Required
+D. Faster
+
+✅ Answer: B
+📘 Explanation: Fenced blocks are modern standard.
+
+25. Proper use of code blocks results in:
+
+A. Poor AI output
+B. Better AI-generated code
+C. Slower system
+D. Errors
+
+✅ Answer: B
+📘 Explanation: Clear examples = better implementation
