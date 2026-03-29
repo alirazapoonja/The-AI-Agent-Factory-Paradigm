@@ -1,0 +1,254 @@
+1. What is the purpose of headings in Markdown for AI?
+
+A. Styling text
+B. Organizing structure
+C. Writing code
+D. Adding images
+
+✅ Answer: B
+📘 Explanation: Headings create clear structure, helping AI understand hierarchy and relationships.
+
+2. Headings primarily help AI to:
+
+A. Execute code
+B. Understand hierarchy
+C. Increase speed
+D. Store data
+
+✅ Answer: B
+📘 Explanation: AI relies on headings to interpret parent-child relationships in specs.
+
+3. Which symbol is used for headings in Markdown?
+
+A. *
+B. #
+C. $
+D. &
+
+✅ Answer: B
+📘 Explanation: # defines heading levels in Markdown.
+
+4. What does # represent?
+
+A. Paragraph
+B. Level 1 heading
+C. Code block
+D. List
+
+✅ Answer: B
+📘 Explanation: Single # is the highest-level heading (H1).
+
+5. What does ## represent?
+
+A. Subheading
+B. Paragraph
+C. List
+D. Code
+
+✅ Answer: A
+📘 Explanation: ## defines a level 2 heading (H2).
+
+🧱 Hierarchy & Structure
+6. Why is heading hierarchy important?
+
+A. For colors
+B. For formatting
+C. For logical structure
+D. For speed
+
+✅ Answer: C
+📘 Explanation: Proper hierarchy ensures AI understands structure and flow.
+
+7. Correct hierarchy example:
+
+A. # → ### → ##
+B. # → ## → ###
+C. ## → # → ###
+D. ### → ## → #
+
+✅ Answer: B
+📘 Explanation: Headings must follow top-down order.
+
+8. Skipping heading levels causes:
+
+A. Faster execution
+B. Better UI
+C. Confusion
+D. Optimization
+
+✅ Answer: C
+📘 Explanation: Skipping levels breaks structure and confuses AI.
+
+9. Which is best practice?
+
+A. Multiple H1
+B. One H1 per document
+C. No headings
+D. Random headings
+
+✅ Answer: B
+📘 Explanation: Use a single H1 as the document title.
+
+10. H3 (###) is used for:
+
+A. Main title
+B. Sub-subsection
+C. Paragraph
+D. List
+
+✅ Answer: B
+📘 Explanation: H3 represents deeper nested structure.
+
+📊 AI Understanding
+11. Headings help AI:
+
+A. Ignore text
+B. Group related content
+C. Delete content
+D. Compile code
+
+✅ Answer: B
+📘 Explanation: AI groups content under headings for better understanding.
+
+12. Without headings, AI sees:
+
+A. Structured data
+B. Clean hierarchy
+C. Flat text
+D. Code
+
+✅ Answer: C
+📘 Explanation: No headings = no structure → flat interpretation.
+
+13. Headings improve:
+
+A. Ambiguity
+B. Clarity
+C. Errors
+D. Speed
+
+✅ Answer: B
+📘 Explanation: Structured headings reduce ambiguity.
+
+14. In AI specs, headings define:
+
+A. Colors
+B. Features and components
+C. Variables
+D. APIs
+
+✅ Answer: B
+📘 Explanation: Used to break down features into sections.
+
+🏗️ Practical Usage
+15. Best way to structure a feature:
+
+A. Paragraph
+B. Heading + lists
+C. Code only
+D. Image
+
+✅ Answer: B
+📘 Explanation: Combine headings with lists for clarity.
+
+16. Example structure:
+
+A. Only text
+B. Headings + subheadings
+C. Only code
+D. Only lists
+
+✅ Answer: B
+📘 Explanation: Multi-level headings define structure.
+
+17. Headings should be:
+
+A. Long paragraphs
+B. Clear and concise
+C. Random
+D. Complex
+
+✅ Answer: B
+📘 Explanation: Short, descriptive headings are best.
+
+18. Headings act as:
+
+A. Code
+B. Labels
+C. Variables
+D. Functions
+
+✅ Answer: B
+📘 Explanation: They label sections for AI understanding.
+
+⚠️ Common Mistakes
+19. Using multiple H1 headings is:
+
+A. Recommended
+B. Bad practice
+C. Required
+D. Faster
+
+✅ Answer: B
+📘 Explanation: Only one H1 should exist per document.
+
+20. Skipping H2 and jumping to H4:
+
+A. Correct
+B. Optimized
+C. Incorrect
+D. Required
+
+✅ Answer: C
+📘 Explanation: Breaks logical hierarchy.
+
+21. Writing unclear headings leads to:
+
+A. Better results
+B. AI confusion
+C. Faster output
+D. Optimization
+
+✅ Answer: B
+📘 Explanation: Ambiguous headings reduce clarity.
+
+🔄 Agent Factory Context
+22. In Agent Factory, headings represent:
+
+A. Styling
+B. Intent structure
+C. Code execution
+D. Debugging
+
+✅ Answer: B
+📘 Explanation: Headings organize intent into sections.
+
+23. Heading hierarchy maps to:
+
+A. Database schema
+B. Feature → component → sub-feature
+C. UI design
+D. API calls
+
+✅ Answer: B
+📘 Explanation: Hierarchy reflects system breakdown.
+
+24. Headings + lists together:
+
+A. Reduce clarity
+B. Improve structure
+C. Remove meaning
+D. Slow system
+
+✅ Answer: B
+📘 Explanation: Combined structure improves AI parsing.
+
+25. Proper heading usage leads to:
+
+A. Poor AI output
+B. Better AI-generated code
+C. Slower execution
+D. Errors
+
+✅ Answer: B
+📘 Explanation: Clear structure = better AI understanding and output.
