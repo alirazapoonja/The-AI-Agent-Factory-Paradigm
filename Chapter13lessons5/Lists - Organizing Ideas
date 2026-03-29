@@ -1,0 +1,254 @@
+1. What is the main purpose of lists in Markdown for AI?
+
+A. Styling
+B. Structuring information
+C. Writing code
+D. Adding images
+
+✅ Answer: B
+📘 Explanation: Lists organize information into clear, structured units, making it easier for AI to interpret.
+
+2. Lists help AI understand:
+
+A. Colors
+B. Sequence and grouping
+C. Fonts
+D. Images
+
+✅ Answer: B
+📘 Explanation: Lists define order and relationships between items.
+
+3. Which symbol is used for unordered lists?
+
+A. #
+B. * or -
+C. $
+D. &
+
+✅ Answer: B
+📘 Explanation: * or - creates bullet (unordered) lists.
+
+4. Ordered lists use:
+
+A. Letters
+B. Numbers
+C. Symbols
+D. Emojis
+
+✅ Answer: B
+📘 Explanation: Ordered lists use numbers (1, 2, 3…).
+
+5. When should you use ordered lists?
+
+A. Random ideas
+B. Sequential steps
+C. Paragraphs
+D. Titles
+
+✅ Answer: B
+📘 Explanation: Ordered lists are best for step-by-step processes.
+
+🔢 Ordered vs Unordered Lists
+6. Ordered lists are best for:
+
+A. Grouping items
+B. Styling
+C. Sequence and workflow
+D. Images
+
+✅ Answer: C
+📘 Explanation: They represent process flow or sequence.
+
+7. Unordered lists are best for:
+
+A. Steps
+B. Random grouped items
+C. Code
+D. Execution
+
+✅ Answer: B
+📘 Explanation: Used when order doesn’t matter.
+
+8. Which is correct ordered list format?
+
+A. * Item
+B. # Item
+C. 1. Item
+D. - Item
+
+✅ Answer: C
+📘 Explanation: Numbers define ordered lists.
+
+9. Lists improve:
+
+A. Ambiguity
+B. Structure
+C. Errors
+D. Complexity
+
+✅ Answer: B
+📘 Explanation: Lists break content into clear units.
+
+10. Without lists, instructions become:
+
+A. Clear
+B. Structured
+C. Confusing
+D. Faster
+
+✅ Answer: C
+📘 Explanation: Paragraphs make it harder for AI to extract steps.
+
+🧱 Nested Lists
+11. Nested lists are used for:
+
+A. Styling
+B. Sub-items
+C. Code
+D. Images
+
+✅ Answer: B
+📘 Explanation: Nested lists represent hierarchy and sub-levels.
+
+12. Nested lists help AI understand:
+
+A. Colors
+B. Dependencies
+C. Fonts
+D. Images
+
+✅ Answer: B
+📘 Explanation: They show relationships between steps.
+
+13. Nested lists are created using:
+
+A. Space/indentation
+B. Symbols
+C. Numbers
+D. Code
+
+✅ Answer: A
+📘 Explanation: Indentation defines nesting.
+
+14. Example of nested list use:
+
+A. Title
+B. Workflow with decisions
+C. Paragraph
+D. Code
+
+✅ Answer: B
+📘 Explanation: Useful for decision branches in workflows.
+
+🤖 AI Understanding
+15. Lists help AI break tasks into:
+
+A. Code
+B. Steps
+C. UI
+D. APIs
+
+✅ Answer: B
+📘 Explanation: Lists convert requirements into actionable steps.
+
+16. Lists reduce:
+
+A. Clarity
+B. Ambiguity
+C. Speed
+D. Code
+
+✅ Answer: B
+📘 Explanation: Structured lists reduce confusion.
+
+17. Lists improve:
+
+A. Randomness
+B. Readability
+C. Errors
+D. Complexity
+
+✅ Answer: B
+📘 Explanation: Easier to read and parse.
+
+18. AI prefers lists because they are:
+
+A. Decorative
+B. Structured
+C. Complex
+D. Visual
+
+✅ Answer: B
+📘 Explanation: Structured data improves AI parsing.
+
+🏗️ Practical Usage
+19. Best way to define steps in a feature:
+
+A. Paragraph
+B. Ordered list
+C. Image
+D. Code
+
+✅ Answer: B
+📘 Explanation: Sequential tasks require ordered lists.
+
+20. Best way to list features:
+
+A. Ordered list
+B. Unordered list
+C. Code
+D. Paragraph
+
+✅ Answer: B
+📘 Explanation: Features don’t require sequence.
+
+21. Combining lists with headings:
+
+A. Reduces clarity
+B. Improves structure
+C. Removes meaning
+D. Slows AI
+
+✅ Answer: B
+📘 Explanation: Headings + lists = strong structure.
+
+⚠️ Common Mistakes
+22. Using paragraph instead of list for steps:
+
+A. Good
+B. Best
+C. Bad practice
+D. Required
+
+✅ Answer: C
+📘 Explanation: Makes instructions unclear.
+
+23. Not using nested lists for sub-steps:
+
+A. Correct
+B. Optimized
+C. Incorrect
+D. Faster
+
+✅ Answer: C
+📘 Explanation: Misses hierarchical structure.
+
+24. Mixing ordered and unordered lists randomly:
+
+A. Good
+B. Bad practice
+C. Required
+D. Faster
+
+✅ Answer: B
+📘 Explanation: Reduces clarity and consistency.
+
+25. Proper use of lists leads to:
+
+A. Poor AI output
+B. Better AI understanding
+C. Errors
+D. Slower code
+
+✅ Answer: B
+📘 Explanation: Clear structure → better AI results.
